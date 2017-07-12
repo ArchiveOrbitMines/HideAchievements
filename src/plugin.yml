@@ -1,0 +1,7 @@
+name: HideAchievements
+author: O_o_Fadi_o_O
+version: 1.0.0
+load: STARTUP
+description: HideAchievements by FadiDev / O_o_Fadi_o_O
+main: com.fadidev.hideachievements.HideAchievements
+commands:
